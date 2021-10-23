@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1634949110189,
+  "index": "https://EduardoAlfredoGallegos.github.io/basepwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://EduardoAlfredoGallegos.github.io/basepwa/favicon.ico",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/index.html",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/main.0098a17c7d11dc60c3f8.js",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/manifest.webmanifest",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/polyfills.77a1993727a31fa030dd.js",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/runtime.18821b64a88c577ecb6a.js",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-128x128.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-144x144.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-152x152.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-192x192.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-384x384.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-512x512.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-72x72.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-96x96.png",
+        "https://EduardoAlfredoGallegos.github.io/basepwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-128x128.png": "1b5e55553cdd7685fe40357ac236b81f60cb3823",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-144x144.png": "ea2f8de7f627799d0d85a966098547179f6c5369",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-152x152.png": "b5af475b9f448bb1d47cf62e8c1db115f6e4b453",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-192x192.png": "f7a97bda25ef771e202dca9b833203fcfa1e8cc4",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-384x384.png": "fa2e3e272d72e0bdb8ffdd04a6a5d6fa7948360e",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-512x512.png": "41d192af89592c37ae672ceea7dae3c2691d7ced",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-72x72.png": "33dfcfb8574792e4488bc6938a5b452b4444eb98",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/icons/icon-96x96.png": "d4ae90386f1ed7375150d5cf1b2bb809e568779c",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/index.html": "7f6fb08a4f116e13f97cfdeac88066813a37d21f",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://EduardoAlfredoGallegos.github.io/basepwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
